@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Armaan Mulani</h1>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/8e444234-2273-4ddd-9c51-2cb08854c75d" />
+
 <h3 align="center">Engineering Student | Java Developer | Building Projects and Mastering DSA One Problem at a Time</h3>
 
 - 🔭 I’m currently working on [Distributed Ecommerce App](https://github.com/armaanmulani/ecommerce-microservices-app)
