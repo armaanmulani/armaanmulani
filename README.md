@@ -1,34 +1,97 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/8e444234-2273-4ddd-9c51-2cb08854c75d" />
+# Hey! I am Armaan! 👋
 
-<h3 align="center">Engineering Student | Java Developer | Building Projects and Mastering DSA One Problem at a Time</h3>
-
-- 🔭 I’m currently working on [Distributed Ecommerce App](https://github.com/armaanmulani/ecommerce-microservices-app)
-
-- 🌱 I’m currently learning **Spring AI and IoT Integration**
-
-- 👯 I’m looking to collaborate on **Full-Stack Web Development, Java Backend, and Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/armaanmulani](https://github.com/armaanmulani)
-
-- 💬 Ask me about **Java, DSA, Web Development, and Building Real-World Projects**
-
-- 📫 How to reach me **armaan.mulani@outlook.com**
-
-- 📄 Know about my experiences [open link](https://drive.google.com/file/d/16mXh-VbiaOjHzPTKGGne9URu9Nu7thfg/view?usp=sharing)
-
-- ⚡ Fun fact **I'm good at Football :)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/armaanmulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armaanmulani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/armaanmulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="armaanmulani" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Role-Backend%20%26%20Distributed%20Systems-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Full%20Stack-blue?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Forward-thinking Computer Science undergraduate specializing in backend engineering and distributed systems. Hands-on experience designing secure, scalable full-stack applications and mastering DSA one problem at a time.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armaanmulani&show_icons=true&locale=en&layout=compact" alt="armaanmulani" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armaanmulani&show_icons=true&locale=en" alt="armaanmulani" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armaanmulani&" alt="armaanmulani" /></p>
+- 🔭 **Current Project:** Working on an **AI-Powered Fitness Microservices Application** using Spring Cloud & RabbitMQ.
+- 🌱 **Learning Journey:** Diving deeper into **Spring Security, Cloud Architectures, and System Design**.
+- 🤝 **Collaboration:** Looking to team up on **Full-Stack Web Development, Java Backend, and Open Source Projects**.
+- 💬 **Ask Me About:** Java, Spring Boot, DSA, Microservices, and building secure RESTful APIs.
+- ⚡ **Fun Fact:** I'm pretty good at Football! ⚽
+
+---
+
+### 🛠️ Technical Skills & Badges
+
+#### **Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **Backend Frameworks & Architecture**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=Spring%20Security&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-%23404d59.svg?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/RESTful%20APIs-%23009688.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+#### **Frontend & State Management**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### **Databases, DevOps & Cloud**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+#### **Tools & Testing**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+### 📊 Coding & GitHub Analytics
+
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>⚡ LeetCode Profile Statistics</h4>
+      <a href="https://leetcode.com/u/armaanmulani/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/armaanmulani?theme=dark&font=Ubuntu" alt="Armaan's LeetCode Stats" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>📈 GitHub Contribution Analytics</h4>
+      <a href="https://github.com/armaanmulani" target="_blank">
+        <img src="https://github-readme-stats-git-master-anuraghazras-apps.vercel.app/api?username=armaanmulani&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Armaan's GitHub Stats" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/armaanmulani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:armaan.mulani@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="PASTE_YOUR_EXPERIENCE_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Experience-Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" alt="Experience" />
+  </a>
+</p>
