@@ -72,9 +72,9 @@ Forward-thinking Computer Science undergraduate specializing in backend engineer
       </a>
     </td>
     <td align="center" width="50%" valign="top">
-      <h4>📈 GitHub Contribution Analytics</h4>
+      <h4>📈 GitHub Contribution Streak</h4>
       <a href="https://github.com/armaanmulani" target="_blank">
-        <img src="https://github-readme-stats-git-master-anuraghazras-apps.vercel.app/api?username=armaanmulani&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Armaan's GitHub Stats" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=armaanmulani&theme=dark&hide_border=true" alt="Armaan's GitHub Streak" width="100%" />
       </a>
     </td>
   </tr>
