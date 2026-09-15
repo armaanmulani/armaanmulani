@@ -74,7 +74,7 @@ Forward-thinking Computer Science undergraduate specializing in backend engineer
     <td align="center" width="50%" valign="top">
       <h4>📈 GitHub Contribution Streak</h4>
       <a href="https://github.com/armaanmulani" target="_blank">
-        <img src="https://streak-stats.demolab.com?user=armaanmulani&theme=dark&hide_border=true&v=3" alt="Armaan's GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com?user=armaanmulani&theme=dark&hide_border=true&v=4" alt="Armaan's GitHub Streak" width="100%" />
       </a>
     </td>
   </tr>
